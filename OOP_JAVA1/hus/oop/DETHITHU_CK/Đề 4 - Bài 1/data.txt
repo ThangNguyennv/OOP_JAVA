@@ -1,0 +1,94 @@
+11
+0
+3
+Dinh Van Thang
+23
+6
+4100000
+thang@sup.landgold.vn
+25
+0
+2
+Tran Huong
+43
+5
+3500000
+huong@advl.landgold.vn
+13
+1
+28
+Phan Khac Lien
+29
+3
+4270000
+lien@advl.landgold.vn
+7
+1000000
+0
+8
+Le Van Hung
+42
+8
+4000000
+hung@sup.landgold.vn
+34
+1
+12
+Hoang Tran Lan
+27
+8
+6400000
+lan@advl.landgold.vn
+2
+1000000
+0
+9
+Tran Quy Kien
+26
+4
+5000000
+kien@sup.landgold.vn
+26
+1
+21
+Nguyen Phuong Quynh
+25
+5
+4300000
+quynh@apm.landgold.vn
+5
+1000000
+0
+5
+Hoang Nguyen Hai Hoang
+33
+5
+5000000
+hoang@sup.landgold.vn
+23
+0
+7
+Nguyen Khai Huy
+32
+8
+4500000
+huy@sup.landgold.vn
+23
+1
+30
+Dinh Hung Thang
+30
+5
+5340000
+thang@advl.landgold.vn
+3
+1000000
+1
+32
+Dinh Quy Suy
+32
+7
+5410000
+suy@apm.landgold.vn
+5
+1000000

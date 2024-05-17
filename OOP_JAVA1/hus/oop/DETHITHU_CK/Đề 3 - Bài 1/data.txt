@@ -1,0 +1,94 @@
+11
+0
+3
+Dinh Van Thang
+23
+212, Tran Quy Cap
+4100000
+thang@mark.vitech.vn
+12
+0
+2
+Tran Huong
+43
+211, Tran Quy Cap
+3500000
+huong@smp.vitech.vn
+13
+1
+28
+Phan Khac Lien
+29
+309, Nguyen Trai
+4270000
+lien@smp.vitech.vn
+7
+1000000
+0
+8
+Le Van Hung
+42
+217, Tran Quy Cap
+2500000
+hung@mark.vitech.vn
+13
+1
+12
+Hoang Tran Lan
+27
+307, Nguyen Trai
+5400000
+lan@smp.vitech.vn
+2
+1000000
+0
+9
+Tran Quy Kien
+26
+218, Tran Quy Cap
+3500000
+kien@mark.vitech.vn
+15
+1
+21
+Nguyen Phuong Quynh
+25
+305, Nguyen Trai
+4300000
+quynh@comp.vitech.vn
+5
+1000000
+0
+5
+Hoang Nguyen Hai Hoang
+33
+214, Tran Quy Cap
+4000000
+hoang@mark.vitech.vn
+14
+0
+7
+Nguyen Khai Huy
+32
+216, De La Thanh
+3000000
+huy@mark.vitech.vn
+13
+1
+30
+Dinh Hung Thang
+30
+310, Nguyen Trai
+5340000
+thang@smp.vitech.vn
+3
+1000000
+1
+32
+Dinh Quy Suy
+32
+311, Nguyen Trai
+5410000
+suy@comp.vitech.vn
+5
+1000000
